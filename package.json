@@ -1,0 +1,12 @@
+{
+  "name": "zoologico-desafio",
+  "version": "1.0.0",
+  "main": "recintos-zoo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
